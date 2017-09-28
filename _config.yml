@@ -1,6 +1,6 @@
 # Site Settings
 locale                   : "en"
-title                    : "Hao Zhuang"
+title                    : "Hao Zhuang Home Page"
 title_separator          : "-"
 name                     : "Hao Zhuang"
 description              : "My personal page at http://zhuangh.github.io"
@@ -75,7 +75,7 @@ author:
   bio              : "Senior Software Developer"
   location         : "San Francisco Bay Area"
   email            : zhuang.howard at gmail  
-  uri              : cs.ucsd.edu/~hazhuang
+  uri              : http://cs.ucsd.edu/~hazhuang
   school           : University of California San Diego (UCSD)
   bitbucket        :
   codepen          : 
