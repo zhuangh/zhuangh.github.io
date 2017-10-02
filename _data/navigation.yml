@@ -2,7 +2,7 @@
 main:
    - title: "About"
      url: /about
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sitemap"
+   - title: "Blog" 
+     url: http://hzhuang.wordpress.com
+     # - title: "Sitemap"
   #   url: /sitemap/
