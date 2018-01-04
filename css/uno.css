@@ -182,6 +182,13 @@ body {
 .icon-camera:before {
 	content: "\f125"; }
 
+.icon-wordpress:before{
+	content: "\f19a";
+}
+ 
+.icon-medium:before{
+	content: "\f23a";
+}
 .icon-check:before {
 	content: "\f126"; }
 
